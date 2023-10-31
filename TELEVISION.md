@@ -22,7 +22,7 @@
 | El Toro TV | [m3u8](https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8) - [m3u8 # 2](https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | - |
 | mtmad 24h | - | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | GH VIP 24h | - | [web](https://www.mitele.es/directo/gh-vip-24h-senal-1/) | [logo](https://graph.facebook.com/granhermano/picture?width=200&height=200) | - | W3U,EMB,EXTA |
-| DMAX | - | [web](https://dmax.marca.com/en-directo) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | EMB |
+| DMAX | -[mpd](https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2OTg3Njg0NzUsIm5iZiI6MTY5ODc2ODQ3NSwiZXhwIjoxNjk4NzY4ODM1LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODYuMTI3LjIyOC4xMjEifQ.dvtdiAePVFBhCxKi7sIxsz_gFoNGJ2Vy5JritUReTcs/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd) | [web](https://dmax.marca.com/en-directo) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | EMB |
 | Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DKISS | - | [web](https://www.dkiss.es) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
 | Paramount Network | - | [web](https://www.paramountnetwork.es) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200) | Paramount.TV | NOEM |
